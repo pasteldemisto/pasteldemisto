@@ -44,8 +44,9 @@ Meu grande objetivo profissional é me desenvolver e consolidar no ecossistema *
 ---
 
 ### 📊 Estatísticas do GitHub
+<br/>
 
-<div align="left">
+<div align="center">
   <img 
     height="200em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasteldemisto&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
@@ -56,4 +57,12 @@ Meu grande objetivo profissional é me desenvolver e consolidar no ecossistema *
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasteldemisto&layout=compact&langs_count=8&theme=dark" 
     alt="Linguagens mais usadas" 
   />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasteldemisto/pasteldemisto/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasteldemisto/pasteldemisto/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/pasteldemisto/pasteldemisto/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
