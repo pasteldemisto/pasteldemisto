@@ -48,12 +48,12 @@ Meu grande objetivo profissional é me desenvolver e consolidar no ecossistema *
 
 <div align="center">
   <img 
-    height="150em" 
+    height="160em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasteldemisto&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="Estatísticas do GitHub de Jean" 
   />
   <img 
-    height="150em" 
+    height="160em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasteldemisto&layout=compact&langs_count=8&theme=dark" 
     alt="Linguagens mais usadas" 
   />
