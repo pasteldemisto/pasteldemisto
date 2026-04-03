@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite
   workflow_dispatch: # Permite que você rode o script manualmente
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +19,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Atualizado para a v4 para resolver o aviso do Node.js
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
