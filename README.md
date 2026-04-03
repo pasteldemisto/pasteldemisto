@@ -1,3 +1,5 @@
+![capa2](https://github.com/user-attachments/assets/523beffc-609b-442d-bfbf-35cd6afe040c)
+
 # Olá, eu sou o Jean! 👋
 
 **`Desenvolvedor Full Stack`**
@@ -18,7 +20,7 @@ Meu grande objetivo profissional é me desenvolver e consolidar no ecossistema *
 
 <div align="left">
 
-#### > Front-End
+#### Front-End
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -28,16 +30,16 @@ Meu grande objetivo profissional é me desenvolver e consolidar no ecossistema *
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-#### > Back-End
+#### Back-End
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img alt="Clojure" src="https://img.shields.io/badge/Clojure-%23C3F44B.svg?style=for-the-badge&logo=Clojure&logoColor=black"/>
 
-#### > Análise de Dados e Modelagem
+#### Análise de Dados e Modelagem
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="Pyomo" src="https://img.shields.io/badge/Pyomo-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 
-#### > Ferramentas e Gestão
+#### Ferramentas e Gestão
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Scrum" src="https://img.shields.io/badge/scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white"/>
 
